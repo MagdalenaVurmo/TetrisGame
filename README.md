@@ -4,7 +4,7 @@ A classic Tetris game built with HTML, CSS and JavaScript.
 
 The project was created to practice JavaScript fundamentals, game logic, DOM interaction and working with the HTML Canvas API.
 
-![Tetris Game](images/Tetris.png)
+![Tetris Game](Images/Tetris.png)
 
 ## ✨ Features
 
