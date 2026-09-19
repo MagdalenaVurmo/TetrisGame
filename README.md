@@ -37,9 +37,34 @@ The project was created to practice JavaScript fundamentals, game logic, DOM int
 - JavaScript
 - HTML Canvas API
 
+
+## 📚 What I Learned
+
+While building this Tetris game, I gained more experience with JavaScript and learned more about how game logic works.
+
+During the project, I practiced:
+
+- Using JavaScript classes to organize game logic
+- Working with arrays and two-dimensional grids
+- Using the HTML Canvas API to draw and update the game
+- Handling keyboard events for player controls
+- Moving and rotating Tetris pieces
+- Detecting collisions with walls, the floor and other pieces
+- Clearing completed lines
+- Creating a scoring and level system
+- Increasing the game speed as the level increases
+- Using `requestAnimationFrame()` to create a continuous game loop
+- Connecting HTML, CSS and JavaScript together in a complete project
+- Debugging JavaScript errors and improving existing code
+
+This project also helped me better understand how several smaller functions can work together to create a complete interactive application.
+
 ## 🚀 Run the Project
 
 Clone the repository:
 
-```bash
-git clone YOUR-REPOSITORY-URL
+bash
+git clone https://github.com/MagdalenaVurmo/TetrisGame.git
+
+
+Open the project folder and open `index.html` with Live Server in Visual Studio Code.
